@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=souravpal9&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### leet code stats
-![](https://leetcard.jacoblin.cool/souravpal9871?ext=activity)
+
 ![](https://leetcard.jacoblin.cool/souravpal9871?ext=contest)
 ![](https://leetcard.jacoblin.cool/souravpal9871?ext=heatmap)
 ### 😂 Random Dev Meme
